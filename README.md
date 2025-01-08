@@ -12,4 +12,7 @@ A POC for RAG on medical pdf reports
 ## Followed by storing and saving the embeddings in ChromaDB.
 ## Thereafter, test the solution. 
 
+All the above pipeline is given practically in pdf_retrival_ChDB_LLM.ipynb.
+For details, follow medium.com
+https://bhowmikd1984.medium.com/enhancing-medical-report-findings-with-retrieval-augmented-generation-rag-integrating-llm-models-7db3c478264b
 
