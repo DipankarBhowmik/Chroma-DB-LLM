@@ -5,12 +5,13 @@ A POC for RAG on medical pdf reports
 ## Convert it to text.
 ## By regular expression, remove private data.
 ## Then using REGEX, capture the information fields.
-## After that, convert to JSON
-## Followed by conversion of Chroma DB format
-## Then chunking the text
-## Use Hugging Face Embeddings (all-MiniLM-L6-v2)
+## After that, convert to JSON.
+## Followed by conversion of Chroma DB format.
+## Then chunking the text.
+## Use Hugging Face Embeddings (all-MiniLM-L6-v2).
 ## Followed by storing and saving the embeddings in ChromaDB.
 ## Thereafter, test the solution. 
+## Followed by Quality check by text evaluation metrics.
 
 All the above pipeline is given practically in pdf_retrival_ChDB_LLM.ipynb.
 For details, follow medium.com
