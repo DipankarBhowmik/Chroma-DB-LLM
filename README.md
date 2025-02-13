@@ -12,6 +12,7 @@ A POC for RAG on medical pdf reports
 ## Followed by storing and saving the embeddings in ChromaDB.
 ## Thereafter, test the solution. 
 ## Followed by Quality check by text evaluation metrics.
+## And at last Summerization with mistral
 
 All the above pipeline is given practically in pdf_retrival_ChDB_LLM.ipynb.
 For details, follow medium.com
